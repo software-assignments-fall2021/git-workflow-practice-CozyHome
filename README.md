@@ -1,5 +1,5 @@
 
-<title> Functional Programming vs. OOP </title>
+<h1> Functional Programming vs. OOP </h1>
 
 <p>Article Link: https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/</p>
 
