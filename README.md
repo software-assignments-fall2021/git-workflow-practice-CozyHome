@@ -1,6 +1,7 @@
-https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/
 
-<h1> Functional Programming vs. OOP </h1>
+<title> Functional Programming vs. OOP </title>
+
+<p>Article Link: https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/</p>
 
 <p>
 	If you're familiar with anything related to realtime computer graphics, John Carmack is a name that you may have heard. Without him and Michael Abrash, I don't believe realtime GFX would be as developed as it is today. computer nerds like myself have this unhealthy habit of worshipping id Software and its early developers. John Carmack is primarily the one who lead the charge in realtime computer graphics during the mid to late nineties with games like Doom and Quake pushing the limits of even the most efficient processors at the time.
